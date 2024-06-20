@@ -14,7 +14,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/starship/ar
 
 #### Activating theme
 
-Copy the `starship.toml` or `starship.theme.toml` (and rename) from the unzipped download to `~/.config/starship.toml` if the file doesn't exist, otherwise append the content to the existing file and make sure you understand the changes.
+Copy the `starship.toml` or `starship.theme.toml` (and rename) from the unzipped download to `~/.config/starship.toml` if the file doesn't exist, otherwise append the content to the existing file, refer to the colors in their semantic names, and make sure you understand the changes.
 
 #### Installing using Nix home-manager
 
