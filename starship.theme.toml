@@ -1,25 +1,25 @@
 [aws]
-style = "bold #ffb86c"
+style = "bold orange"
 
 [character]
-error_symbol = "[λ](bold #ff5555)"
-success_symbol = "[λ](bold #50fa7b)"
+error_symbol = "[λ](bold red)"
+success_symbol = "[λ](bold green)"
 
 [cmd_duration]
-style = "bold #f1fa8c"
+style = "bold yellow"
 
 [directory]
-style = "bold #50fa7b"
+style = "bold green"
 
 [git_branch]
-style = "bold #ff79c6"
+style = "bold pink"
 
 [git_status]
-style = "bold #ff5555"
+style = "bold red"
 
 [hostname]
-style = "bold #bd93f9"
+style = "bold purple"
 
 [username]
 format = "[$user]($style) on "
-style_user = "bold #8be9fd"
+style_user = "bold cyan"
